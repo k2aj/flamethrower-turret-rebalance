@@ -1,7 +1,7 @@
 {
     "name": "flamethrower-turret-rebalance",
     "title": "Flamethrower turret rebalance",
-    "description": "Nerfs flamethrower turrets by decreasing their damage and increasing fuel consumption. Tweaks damage bonus from light/heavy oil. All changes are adjustable.",
+    "description": "Nerfs flamethrower turrets - decreases damage and increases fuel consumption. Makes using light/heavy oil more impactful. Every change is configurable.",
     "author": "k2aj",
 
     "version": "1.0.0",
