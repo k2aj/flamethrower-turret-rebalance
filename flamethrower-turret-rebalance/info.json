@@ -1,12 +1,14 @@
 {
     "name": "flamethrower-turret-rebalance",
-    "title": "Flamethrower turret rebalance",
+    "title": "Flamethrower Turret Rebalance",
     "description": "Nerfs flamethrower turrets - decreases damage and increases fuel consumption. Makes using light/heavy oil more impactful. Every change is configurable.",
     "author": "k2aj",
 
-    "version": "1.1.0",
+    "version": "1.2.0",
     "factorio_version": "1.1",
     "dependencies": [
-        "base >= 1.1"
+        "base >= 1.1",
+        "? aai-industry",
+        "? RampantArsenal"
     ]
 }
