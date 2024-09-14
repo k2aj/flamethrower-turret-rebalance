@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-09-02
+  Features:
+    - Reduce flamethrower turret damage (configurable)
+    - Increase flamethrower turret fuel consumption (configurable)
+    - Increase flamethrower turret damage bonus from using light/heavy oil (configurable)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2024-09-02
+  Graphics:
+    - Add a thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2024-09-04
+  Features:
+    - Flamethrower turret changes now also affect advanced flamethrower turrets from Rampant Arsenal 
+    - Walls and gates are no longer immune to fire damage (configurable). This affects:
+      - Vanilla stone walls/gates
+      - Reinforced/mending walls/gates from Rampant Arsenal
+      - Concrete/steel walls from AAI Industry
