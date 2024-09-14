@@ -19,3 +19,12 @@ Date: 2024-09-04
       - Vanilla stone walls/gates
       - Reinforced/mending walls/gates from Rampant Arsenal
       - Concrete/steel walls from AAI Industry
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 2024-09-15
+  Combat Balancing:
+    - Walls taking fire damage is now disabled by default.
+      Turns out having this enabled causes massive construction bot losses, which I believe was
+      a bit too much of a nerf. You can still enable it if you want.
+  Info:
+    - Add a changelog
