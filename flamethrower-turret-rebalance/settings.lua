@@ -28,7 +28,7 @@ data:extend({
         name = "stone-wall-fire-resistance",
         order = "d[vanilla-wall]",
         setting_type = "startup",
-        default_value =  95,
+        default_value = 100,
         maximum_value = 100
     },
 })
@@ -39,7 +39,7 @@ if mods["aai-industry"] then data:extend({
         name = "aai-industry-concrete-wall-fire-resistance",
         order = "e[modded-wall]-aai-a[concrete]",
         setting_type = "startup",
-        default_value =  95,
+        default_value = 100,
         maximum_value = 100
     },
     {
@@ -47,7 +47,7 @@ if mods["aai-industry"] then data:extend({
         name = "aai-industry-steel-wall-fire-resistance",
         order = "e[modded-wall]-aai-b[steel]",
         setting_type = "startup",
-        default_value =  95,
+        default_value = 100,
         maximum_value = 100
     },
 })end
@@ -66,7 +66,7 @@ if mods["RampantArsenal"] then data:extend({
         name = "rampant-arsenal-mending-wall-fire-resistance",
         order = "e[modded-wall]-rampant-arsenal-a[mending]",
         setting_type = "startup",
-        default_value =  90,
+        default_value = 100,
         maximum_value = 100
     },
     {
@@ -74,7 +74,7 @@ if mods["RampantArsenal"] then data:extend({
         name = "rampant-arsenal-reinforced-wall-fire-resistance",
         order = "e[modded-wall]-rampant-arsenal-b[reinforced]",
         setting_type = "startup",
-        default_value =  95,
+        default_value = 100,
         maximum_value = 100
     },
 })end
